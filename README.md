@@ -8,6 +8,11 @@ To install the dependencies, run:
 
 ```bash
 npm i 
+
+```
+
+```bash
+
 node src/app.js
 ```
 
