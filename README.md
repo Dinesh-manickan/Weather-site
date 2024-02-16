@@ -39,5 +39,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 Thanks to the contributors of the dependencies used in this project.
 
 
-![GitHub license](https://github.com/Dinesh-manickan/Weather-site.git)
+
 
