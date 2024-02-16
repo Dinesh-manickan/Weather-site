@@ -7,7 +7,7 @@ A simple web server built with Express.js and Handlebars.
 To install the dependencies, run:
 
 ```bash
-
+npm i 
 node src/app.js
 ```
 
